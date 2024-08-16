@@ -41,7 +41,7 @@ if (yes)
     } else {
         MsgBox, xardes - Failed to locate configuration file, Make sure settings.json is placed in the same directory, Exiting.
         ExitApp,
-    }
+    },
 
 
     KANKAN := "https://www.youtube.com/watch?v=8c6AJMIm310"
