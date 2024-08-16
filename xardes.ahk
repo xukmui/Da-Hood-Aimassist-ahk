@@ -40,7 +40,7 @@ if (yes)
         config := JSON.Load(configData)
     } else {
         MsgBox, xardes - Failed to locate configuration file, Make sure settings.json is placed in the same directory, Exiting.
-        ExitApp
+        ExitApp,
     }
 
 
