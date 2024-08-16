@@ -1,4 +1,4 @@
-#Include %A_LineFile%\..\JSON.ahk
+#Include %"C:\Program Files\AutoHotkey\v1.1.37.02\AutoHotkeyU64.exe" "C:\Users\Student\Downloads\JSON.ahk" "%l"%\..\JSON.ahk
 
 #NoEnv
 #SingleInstance, Force
